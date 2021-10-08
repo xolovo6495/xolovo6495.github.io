@@ -3,158 +3,158 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/fr/categories/</loc>
+    <loc>http://devopsworld.ddns.net/fr/categories/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="http://devopsworld.ddns.net/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="http://devopsworld.ddns.net/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
+    <loc>http://devopsworld.ddns.net/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/2014/09/creating-a-new-theme/"
+                href="http://devopsworld.ddns.net/posts/2014/09/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
+                href="http://devopsworld.ddns.net/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/</loc>
+    <loc>http://devopsworld.ddns.net/fr/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="http://devopsworld.ddns.net/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="http://devopsworld.ddns.net/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/categories/hugo/</loc>
+    <loc>http://devopsworld.ddns.net/fr/categories/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/fr/posts/</loc>
+    <loc>http://devopsworld.ddns.net/fr/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/"
+                href="http://devopsworld.ddns.net/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/"
+                href="http://devopsworld.ddns.net/fr/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/posts/2014/04/d%C3%A9buter-avec-hugo/</loc>
+    <loc>http://devopsworld.ddns.net/fr/posts/2014/04/d%C3%A9buter-avec-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/2014/04/getting-started-with-hugo/"
+                href="http://devopsworld.ddns.net/posts/2014/04/getting-started-with-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/2014/04/d%C3%A9buter-avec-hugo/"
+                href="http://devopsworld.ddns.net/fr/posts/2014/04/d%C3%A9buter-avec-hugo/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/categories/go/</loc>
+    <loc>http://devopsworld.ddns.net/fr/categories/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/</loc>
+    <loc>http://devopsworld.ddns.net/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/2014/04/hugo-template-primer/"
+                href="http://devopsworld.ddns.net/posts/2014/04/hugo-template-primer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
+                href="http://devopsworld.ddns.net/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/categories/jekyll/</loc>
+    <loc>http://devopsworld.ddns.net/fr/categories/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</loc>
+    <loc>http://devopsworld.ddns.net/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/2014/03/migrate-to-hugo-from-jekyll/"
+                href="http://devopsworld.ddns.net/posts/2014/03/migrate-to-hugo-from-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/"
+                href="http://devopsworld.ddns.net/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/series/</loc>
+    <loc>http://devopsworld.ddns.net/fr/series/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="http://devopsworld.ddns.net/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/series/"
+                href="http://devopsworld.ddns.net/fr/series/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/tags/</loc>
+    <loc>http://devopsworld.ddns.net/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="http://devopsworld.ddns.net/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="http://devopsworld.ddns.net/fr/tags/"
                 />
   </url>
   
